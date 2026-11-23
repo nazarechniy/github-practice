@@ -1,6 +1,14 @@
-# KCC Computer Science Club
+## Our Club Projects
 
-This is my first Git project.
+We are developing a new club directory
+to help Kingsborough students discover
+clubs and activities.
 
-We are learning Git and GitHub to
-collaborate on our club directory project.
+## Technologies
+
+- Git
+- GitHub
+- HTML
+- CSS
+- Python
+
